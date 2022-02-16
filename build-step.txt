@@ -1,0 +1,9 @@
+ld war file
+
+git clone https://github.com/shashirsb/employee-webapp.git
+
+cd employee-webapp
+
+rm -rf employees.war
+
+jar -cvf employees.war *
